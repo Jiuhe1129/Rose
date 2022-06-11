@@ -34,4 +34,4 @@ body{background:#000}
 }@keyframes glowing{50%{background:#d7365f;box-shadow:0px 0px 60px #f594b8}
 }@keyframes falling{20%{top:335px;background:#9d193b;box-shadow:0px 0px 0px rgba(245,148,184,0)}
 100%{top:335px;opacity:0}
-}@media screen and (max-width:970px){.box{left:35%;top:25%}}
+}@media screen and (max-width:970px){.box{left:30%;top:25%}}
